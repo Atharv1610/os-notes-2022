@@ -2,6 +2,7 @@
 Operating System Notes created on 2022
 
 ## Important Links to read
+0. https://www.geeksforgeeks.org/basic-shell-commands-in-linux/
 1. [Introduction to Interrupts in OS](https://www.scaler.com/topics/operating-system/introduction-to-interrupts/)
 2. [5 State Process Model in Operating System](https://www.javatpoint.com/5-state-process-model-in-operating-system)
 3. [Threads in Operating System](https://www.scaler.com/topics/operating-system/threads-in-operating-system/)
